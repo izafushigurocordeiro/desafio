@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap');
+body{
+    background: linear-gradient(to left, #16777C,#b5eedb,#128d76,#AAE1CF,#3d6f8d);
+}
+h1{
+    font-family: Skranji;
+    text-align: center;
+    text-shadow: 3px -1px green;
+    transition: 0.5s;
+}
+h1:hover{
+ color: #005d8b;
+}
+h1:active{
+    color: #269550;
+    transform: scale(0.3);
+}
+
+

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=Comic+Relief:wght@400;700&family=Rock+Salt&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background-color:#F8F9FA;
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    border: solid 3px;
+    width: 1914px;
+    height: 160px;
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKHCFU85OK2ReK9atiQVx7X9uXDkX9jdpEFALIY44ZPO0sbEuZTkJgZs&s=10);
+    font-family:Rock Salt;
+    text-shadow: -5px 2px darkmagenta;
+}
+h2{
+     font-family:Rock Salt;
+     text-align: center;
+     text-shadow: -1px 3px rgb(181, 83, 229);
+}
+marquee{
+   background-image: url(https://manualdoplay.com.br/wp-content/uploads/2025/11/post-de-anime-780x470.png);
+   
+}
+.cor{
+    background-color: rgb(179, 118, 236);
+    display: flex;
+    justify-content: space-between;
+    
+}
+form{
+    display: flex;
+    justify-content: center;
+     font-family: Permanent Marker;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* ele vai centralizar cada campo meu dentro do fieldset */
+}
+div{
+    font-family: Permanent Marker;
+}
